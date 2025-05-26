@@ -1,55 +1,65 @@
-# Curriculo
+<h1 align="center">👨‍💻 Lucas Cesar</h1>
 
-# 👨‍💻 Lucas Cesar
+<p align="center">
+📍 Itaberaí - GO | 📞 (62) 9 9669-4205 | 📧 <a href="mailto:lucas-0412@hotmail.com">lucas-0412@hotmail.com</a>
+</p>
 
-📍 Itaberaí - GO | 📞 (62) 9 9669-4205 | 📧 [lucas-0412@hotmail.com](mailto:lucas-0412@hotmail.com)
-
-Sou um profissional com sólida experiência em planejamento e controle da produção, suporte técnico e desenvolvimento de sistemas. Apaixonado por tecnologia, busco constantemente formas de otimizar processos e entregar soluções práticas para os desafios do dia a dia.
-
----
-
-## 💼 Experiência
-
-**🔹 Analista de Contas a Pagar**  
-📍 Empresa do setor avícola  
-📅 Maio 2025 – Atualmente  
-Responsável por pagamentos a produtores integrados, controle de documentos, conciliação financeira e comunicação com áreas internas.
-
-**🔹 Analista de PCP**  
-📍 Empresa do setor avícola  
-📅 Agosto 2023 – 2025  
-Atuava no planejamento, programação e controle da produção, garantindo o equilíbrio entre demanda, capacidade produtiva e estoque.
+<p align="center"><em>Profissional com experiência sólida em PCP, suporte técnico e desenvolvimento. Entusiasta da tecnologia, busco sempre otimizar processos com soluções práticas e inteligentes.</em></p>
 
 ---
 
-## 🎓 Educação
+## 💼 Experiência Profissional
 
-**💻 Universidade Estadual de Goiás – UEG**  
-📘 Bacharelado em Sistemas de Informação  
-📅 Jan 2021 – Dez 2025 _(previsão)_
-
----
-
-## 🛠️ Habilidades
-
-- Assistência técnica em informática (montagem, diagnóstico e manutenção de PCs e notebooks)
-- Formatação, backup e recuperação de dados
-- Pacote Office (básico ao avançado) com foco em fórmulas, gráficos e tabelas dinâmicas
-- Desenvolvimento web e desktop: `HTML`, `CSS`, `JavaScript`, `PHP`
-- Lógica de programação e estrutura de dados
-- Raciocínio lógico e boa comunicação
-- Didática para ensinar tecnologia e suporte a usuários
-- Proatividade, organização e gestão do tempo
+### 🔹 Analista de Contas a Pagar  
+📍 *Empresa do setor avícola*  
+📅 <strong>Mai/2025 – Atualmente</strong>  
+• Responsável por pagamentos a produtores integrados  
+• Controle de documentos e conferência de notas fiscais  
+• Conciliação financeira e relacionamento com áreas internas  
 
 ---
 
-## 🚀 Interesses
-
-- Automação de processos e rotinas empresariais  
-- Suporte técnico e infraestrutura de TI  
-- Desenvolvimento de soluções web  
-- Ensino e capacitação em informática
+### 🔹 Analista de PCP  
+📍 *Empresa do setor avícola*  
+📅 <strong>Ago/2023 – 2025</strong>  
+• Planejamento e controle da produção  
+• Programação de ordens de serviço e gestão de estoque  
+• Apoio ao setor de compras e logística
 
 ---
 
-> *"Motivado por desafios e apaixonado por resolver problemas com tecnologia."*
+## 🎓 Formação Acadêmica
+
+🎓 **Bacharelado em Sistemas de Informação**  
+Universidade Estadual de Goiás – UEG  
+📆 Jan/2021 – Dez/2025 _(previsão)_
+
+---
+
+## 🛠️ Habilidades Técnicas
+
+- 💻 Montagem e manutenção de computadores e notebooks  
+- 🔍 Diagnóstico de falhas, formatação, backup e recuperação de dados  
+- 📊 Excel avançado: fórmulas, gráficos e tabelas dinâmicas  
+- 🌐 Desenvolvimento web: `HTML`, `CSS`, `JavaScript`, `PHP`  
+- 🧠 Lógica de programação e estrutura de dados  
+- 💬 Comunicação clara e didática para ensino de informática  
+- ⏱️ Organização, foco em prazos e gestão de tarefas
+
+---
+
+## 🚀 Áreas de Interesse
+
+- 🤖 Automação de processos empresariais  
+- 🛠️ Suporte técnico e infraestrutura de TI  
+- 🌐 Desenvolvimento de sistemas web  
+- 🧑‍🏫 Educação e capacitação tecnológica
+
+---
+
+## ✨ Frase que me define
+
+> _"Motivado por desafios e apaixonado por resolver problemas com tecnologia."_
+
+---
+
